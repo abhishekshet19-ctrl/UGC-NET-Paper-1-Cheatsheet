@@ -1,8 +1,22 @@
 # **UGC NET Paper 1 – Unit 1: Teaching Aptitude**
 
-Complete syllabus coverage
+**Unit 1 – Syllabus checklist**
+-------------------------------
 
-These notes follow the GitHub cheat-sheet style: numbered sections, concise explanations, comparison tables, classifications, important facts and examples. Unit 1 – Syllabus checklist ## Teaching: Concept, objectives, levels, characteristics and basic requirements. ## Learner's characteristics: Adolescent and adult learners; individual differences. ## Factors affecting teaching. ## Methods of teaching in higher education. ## Teaching Support System: Traditional, Modern and ICT-based. ## Evaluation Systems: Elements, types, CBCS, CBT and innovations. These are the six areas covered in the expanded Unit 1 syllabus
+1.  Teaching: Concept, objectives, levels, characteristics and basic requirements.
+    
+2.  Learner's characteristics: Adolescent and adult learners; individual differences.
+    
+3.  Factors affecting teaching.
+    
+4.  Methods of teaching in higher education.
+    
+5.  Teaching Support System: Traditional, Modern and ICT-based.
+    
+6.  Evaluation Systems: Elements, types, CBCS, CBT and innovations.
+    
+
+These are the six areas covered in the expanded Unit 1 syllabus.
 
 # **1. Teaching: Concept and Objectives**
 
