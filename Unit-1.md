@@ -2,21 +2,7 @@
 
 Complete syllabus coverage
 
-Exam-oriented notes
-
-These notes follow the GitHub cheat-sheet style: numbered sections, concise explanations, comparison tables, classifications, important facts and examples.
-
-## **Unit 1 – Syllabus checklist**
-
-## Teaching: Concept, objectives, levels, characteristics and basic requirements.
-
-## Learner's characteristics: Adolescent and adult learners; individual differences. ## Factors affecting teaching. ## Methods of teaching in higher education. ## Teaching Support System: Traditional, Modern and ICT-based. ## Evaluation Systems: Elements, types, CBCS, CBT and innovations.
-
-These are the six areas covered in the expanded Unit 1 syllabus.&#x20;
-
-[image](https://[www.google.com/s2/favicons?domain=https://www.jagranjosh.com\&sz=32](https://www.google.com/s2/favicons?domain=https://www.jagranjosh.com\&sz=32))
-
-Jagran Josh+1
+These notes follow the GitHub cheat-sheet style: numbered sections, concise explanations, comparison tables, classifications, important facts and examples. Unit 1 – Syllabus checklist ## Teaching: Concept, objectives, levels, characteristics and basic requirements. ## Learner's characteristics: Adolescent and adult learners; individual differences. ## Factors affecting teaching. ## Methods of teaching in higher education. ## Teaching Support System: Traditional, Modern and ICT-based. ## Evaluation Systems: Elements, types, CBCS, CBT and innovations. These are the six areas covered in the expanded Unit 1 syllabus
 
 # **1. Teaching: Concept and Objectives**
 
